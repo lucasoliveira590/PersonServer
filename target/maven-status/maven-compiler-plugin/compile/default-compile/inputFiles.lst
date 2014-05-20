@@ -1,0 +1,7 @@
+/home/lucas/workspace/PersonServer/src/main/java/personserver/resources/HelloWorldResource.java
+/home/lucas/workspace/PersonServer/src/main/java/personserver/resources/PersonResource.java
+/home/lucas/workspace/PersonServer/src/test/java/personserver/resources/PersonResouceTest.java
+/home/lucas/workspace/PersonServer/src/main/java/personserver/model/Person.java
+/home/lucas/workspace/PersonServer/src/main/java/personserver/filters/JPAFilter.java
+/home/lucas/workspace/PersonServer/src/main/java/personserver/repository/PersonRepository.java
+/home/lucas/workspace/PersonServer/src/main/java/personserver/controle/PersonBean.java

@@ -1,0 +1,7 @@
+main/java/personserver/model/Person.class
+main/java/personserver/resources/HelloWorldResource.class
+main/java/personserver/repository/PersonRepository.class
+test/java/personserver/resources/PersonResouceTest.class
+main/java/personserver/controle/PersonBean.class
+main/java/personserver/filters/JPAFilter.class
+main/java/personserver/resources/PersonResource.class

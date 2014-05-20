@@ -1,0 +1,2 @@
+127.0.0.1 - - [19/May/2014:02:18:53 -0300] "GET /PersonServer/helloworld HTTP/1.1" 404 - http-bio-8080-exec-1 0
+127.0.0.1 - - [19/May/2014:02:19:13 -0300] "GET /PersonServer/helloworld HTTP/1.1" 404 - http-bio-8080-exec-2 0
