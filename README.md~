@@ -10,7 +10,7 @@ Instruções como rodar o projeto.
 2 - Baixar o projeto do GitHub
 	$ git clone https://github.com/lucasoliveira590/PersonServer.git
 
-3 - Fazer o deploy no TomCat 7 utilizando o arquivo PersonServer.war que está no projeto;
+3 - Fazer o deploy no TomCat 7;
 
 4 - Testes
 	4.1 Para rodar os testes aplicação deve estar rodando no seguinte endereço: http://localhost:8080/PersonServer
